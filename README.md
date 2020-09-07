@@ -14,4 +14,4 @@
 - 📫 How to reach me: LinkedIn (Abigail Afi Gbadago)
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I really love chocolates and cartoons
-x
+
