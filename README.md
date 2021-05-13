@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working improving on my technical skills
+- 🔭 I’m currently improving on my technical skills
 - 🌱 I’m currently learning React and Java
 - 👯 I’m looking to collaborate on Open Source projects
 - 🤔 I’m looking for help with backend development
