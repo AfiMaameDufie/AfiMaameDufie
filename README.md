@@ -11,7 +11,7 @@
 - 👯 I’m looking to contribute to Open Source projects and dev communities.
 - 🤔 I’m getting better at backend development with Java Spring.
 - 💬 Ask me about anything
-- 📫 How to reach me: LinkedIn (Abigail Afi Gbadago) or Twitter (@afi_maame)
+- 📫 How to reach me: LinkedIn (Abigail Afi Gbadago) | Twitter (@afi_maame) | Medium (https://medium.com/@afimaamedufie/)
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I love hiking and seeing new places esp food places.
 
