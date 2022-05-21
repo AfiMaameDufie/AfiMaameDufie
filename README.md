@@ -6,10 +6,10 @@
 
 
 
-- 🔭 I’m currently improving on my technical skills in Java and participating in the 100 days of code.
-- 🌱 I’m currently improving my React/JS and Java.
+- 🔭 I’m currently improving on my technical skills in Java and I am done participating in the 100 days of code :)
+- 🌱 I’m currently improving my technical and soft skills.
 - 👯 I’m looking to contribute to Open Source projects and dev communities.
-- 🤔 I’m getting better at backend development with Java Spring.
+- 🤔 I’m getting better at backend development with Java Spring/Django.
 - 💬 Ask me about anything
 - 📫 How to reach me: LinkedIn (Abigail Afi Gbadago) | Twitter (@afi_maame) | Medium (https://medium.com/@afimaamedufie/)
 - 😄 Pronouns: Her/She
