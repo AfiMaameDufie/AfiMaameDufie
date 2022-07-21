@@ -6,8 +6,8 @@
 
 
 
-- 🔭 I’m currently improving on my technical skills in Java and I am done participating in the 100 days of code :)
-- ⭐️ I will be starting 100 Days of DS and Algo soon 
+- 🔭 I’m currently improving on my technical skills and I am done participating in the 100 days of code :).
+- ⭐️ I have started 100 Days of DS and Algo  
 - 🌱 I’m currently improving my technical and soft skills.
 - 👯 I’m looking to contribute to Open Source projects and dev communities.
 - 🤔 I’m getting better at backend development with Springboot Java/Django.
