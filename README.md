@@ -12,7 +12,7 @@
 - 👯 I contribute to Open Source projects and dev communities such as OSM, Jenkins, Wiki, PythonGhana, Django Girls and others.
 - 🤔 I’m getting better at backend development with Springboot Java and Django(DRF).
 - 💬 Ask me about anything
-- 📫 How to reach me: LinkedIn (Abigail Afi Gbadago) | Twitter (@afi_maame) | Medium (https://medium.com/@afimaamedufie/)
+- 📫 How to reach me: LinkedIn (Abigail Afi Gbadago) | Medium (https://medium.com/@afimaamedufie/)
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I love hiking and seeing new places and food places.
 
