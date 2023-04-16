@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently improving on my technical skills and I am done participating in the 100 days of code :)
-- ⭐️ I have started 100 Days of DS and Algo (mid-July).
+- ⭐️ I am delving into more community work now
 - 🌱 I’m currently improving my technical and soft skills.
 - 👯 I contribute to Open Source projects and dev communities such as OSM, Jenkins, Wiki, PythonGhana, Django Girls and others.
 - 🤔 I’m getting better at backend development with Springboot Java and Django(DRF).
