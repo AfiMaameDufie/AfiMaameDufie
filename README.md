@@ -7,10 +7,10 @@
 
 
 - 🔭 I’m currently improving on my technical skills and I am done participating in the 100 days of code :)
-- ⭐️ I am delving into more community work now
-- 🌱 I’m currently improving my technical and soft skills.
-- 👯 I contribute to Open Source projects and dev communities such as OSM, Jenkins, Wiki, PythonGhana, Django Girls and others.
-- 🤔 I’m getting better at backend development with Springboot Java and Django(DRF).
+- ⭐️ I am delving towards more technical community and Open Source work now
+- 🌱 I’m always improving my technical and soft skills.
+- 👯 I contribute to Open Source projects and dev communities.
+- 🤔 I’m getting better at backend development with Django(DRF) and other frameworks mostly.
 - 💬 Ask me about anything
 - 📫 How to reach me: LinkedIn (Abigail Afi Gbadago) | Medium (https://medium.com/@afimaamedufie/)
 - 😄 Pronouns: Her/She
