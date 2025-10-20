@@ -5,7 +5,7 @@
 -->
 
 - 🤔 It’s been a minute since I pushed any code here. The short version? 
-- ⭐️ Life pulled me across a few different paths — from backend engineering to strategic tech partnerships, tech leaderships, dev advocacy, and so much more.
+- ⭐️ Life pulled me across a few different paths — from backend engineering to strategic tech partnerships, tech leadership, dev advocacy, and so much more.
 - 🌱 A couple of years ago, I wanted to understand systems better, grow my soft skills, and show up more — through open source, public speaking, and community work — and I’ve done that successfully.
 - 👯 These days, I solve problems with code through education rather than code happily solving me as a problem in production deployments. Less wrangling microservices, containers, but more of creating tutorials, writing about concepts, and helping others make sense of this beautiful chaos, Tech.
 And when I’m not doing that, on the weekend, I’m busy with grad school work — figuring out topics like decision-making, Bayes’ Theorem, conditional probability, inductive reasoning, leadership, business case studies and so much more 😅.
